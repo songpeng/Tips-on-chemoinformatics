@@ -6,7 +6,7 @@ In this repository, basic chemoinformatics knowledge and common tools will be su
 ### Basic Chemoinformatics Knowledge
 1. SMILES and SMARTS  
 2. Molecular Fingerpint and Structure Similarity  
-3. Drugs: ATC code, side effects and functional classification  
+3. Drug: ATC code, side effects and functional classification  
 4. Database
  - PubChem
  - ChEMBL and ChEBI
@@ -14,7 +14,8 @@ In this repository, basic chemoinformatics knowledge and common tools will be su
  - MDDR
  - STITCH
  - BindingDB
-5. Drug-Target Prediction by Machine Learning
+5. Pharmaco
+6. Drug-Target Prediction by Machine Learning
 
 ### Common Tools
 1. RDKit (C++,python)  
