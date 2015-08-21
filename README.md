@@ -22,5 +22,10 @@ In this repository, basic chemoinformatics knowledge and common tools will be su
 2. ChemmineR (R)  
 3. Openbabel (C++, Python, R)
 
-
+### PDB and Ligand
+1. Web or software source
+ - iPfam database
+ - Ligand Expo
+ - PLI from a Italian group
+ - PLIP, a software about fully automated protein-ligand interaction profier.
 
